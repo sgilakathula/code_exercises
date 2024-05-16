@@ -10,14 +10,6 @@
 
 **3. Best practices have additional info -** most bullets include a **🔗Read More** link that expands on the practice with code examples, quotes from selected blogs, and more information
 
-<br/><br/>
-
-# By Yoni Goldberg
-
-### Learn with me: As a consultant, I engage with worldwide teams on various activities like workshops and code reviews. 🎉AND... Hold on, I've just launched my [beyond-the-basics testing course, which is on a 🎁 limited-time sale](https://testjavascript.com/) until August 7th
-
-<br/><br/>
-
 ## Table of Contents
 
 <details>
